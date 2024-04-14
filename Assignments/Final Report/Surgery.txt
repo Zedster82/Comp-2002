@@ -1,0 +1,5 @@
+Cholecystectomy|Meredith Gery|4|Yes
+Broken Bone repair|Leonard McCoy|3|Yes
+Heart Bypass|Preston Burke|2|Yes
+Carpal Tunnel|Cristina Yang|4|No
+Dupuytren Contracture Release|Beverly Crusher|2|No
